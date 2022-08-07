@@ -1,0 +1,1451 @@
+@prefix iskouk: <https://iskouk.org/> .
+@prefix pav: <http://purl.org/pav/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+iskouk:005THP1B a skos:Concept ;
+    skos:altLabel "Academia",
+        "Higher education" ;
+    skos:broader iskouk:FWXBPXIL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Universities" .
+
+iskouk:00I8GP8X a skos:Concept ;
+    skos:broader iskouk:16LVUVBG ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Social tagging" .
+
+iskouk:0D82XPPC a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Metadata registries" .
+
+iskouk:0LEPGCWQ a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data architects" .
+
+iskouk:0R6F8PDM a skos:Concept ;
+    skos:altLabel "DP law",
+        "DPA" ;
+    skos:broader iskouk:9N9RIC05 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data Protection Act" .
+
+iskouk:0V9V587N a skos:Concept ;
+    skos:broader iskouk:080P8HOA ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "RFID" .
+
+iskouk:0VMQ8DHJ a skos:Concept ;
+    skos:broader iskouk:ZHX5KNP5 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Open Government Licence" .
+
+iskouk:0WXEID7H a skos:Concept ;
+    skos:altLabel "UX designers",
+        "User experience designers" ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "User researchers" .
+
+iskouk:1B28UD6Y a skos:Concept ;
+    skos:altLabel "BC2",
+        "Bliss Classification" ;
+    skos:broader iskouk:KYMMW9O8 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Bliss Bibliographic Classification" .
+
+iskouk:1OFZ35SJ a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information managers" .
+
+iskouk:1TRGOFDN a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Project management" .
+
+iskouk:1VWJX996 a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Crowdsourcing" .
+
+iskouk:1YCTW7XZ a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data architecture" .
+
+iskouk:202AASH6 a skos:Concept ;
+    skos:altLabel "Web pages",
+        "Websites" ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Web sites" .
+
+iskouk:22THY8MD a skos:Concept ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Taxonomies" .
+
+iskouk:25BWYBCX a skos:Concept ;
+    skos:altLabel "Farradane" ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Jason Farradane" .
+
+iskouk:333LTKLI a skos:Concept ;
+    skos:broader iskouk:IOQ48TOR ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Skills development" .
+
+iskouk:3EUZDJS5 a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Multimedia" .
+
+iskouk:3GJL9UR3 a skos:Concept ;
+    skos:altLabel "D. J. Foskett",
+        "Foskett" ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Douglas Foskett" .
+
+iskouk:3LRPI0M5 a skos:Concept ;
+    skos:broader iskouk:PRUIHEDJ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Search strategies" .
+
+iskouk:3LYHQWO2 a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Facet analysis" .
+
+iskouk:3WM8Y0O9 a skos:Concept ;
+    skos:broader iskouk:5Q4KFVJM ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Parliament" .
+
+iskouk:4ER4MT26 a skos:Concept ;
+    skos:altLabel "FOIA" ;
+    skos:broader iskouk:9N9RIC05 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Freedom of Information Act" .
+
+iskouk:4JNSOS6M a skos:Concept ;
+    skos:altLabel "Information sharing" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge sharing" .
+
+iskouk:4WNPCVVX a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Ontologies" .
+
+iskouk:5E71PYGR a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Topic maps" .
+
+iskouk:5ML5Q5CH a skos:Concept ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Multi-lingual vocabularies" .
+
+iskouk:5UGB0MMB a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Philosophy" .
+
+iskouk:5ZVVTVIZ a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Navigation systems" .
+
+iskouk:6VLSNGQT a skos:Concept ;
+    skos:broader iskouk:5SLOHCQR ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Digital libraries" .
+
+iskouk:6WLL4S41 a skos:Concept ;
+    skos:altLabel "Collection development" ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Collection management" .
+
+iskouk:6ZA4RUD4 a skos:Concept ;
+    skos:broader iskouk:G1K3L21D ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Machine learning" .
+
+iskouk:74QF41BO a skos:Concept ;
+    skos:altLabel "Performing arts" ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Theatre" .
+
+iskouk:76Z0HDI5 a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Blogs" .
+
+iskouk:7EYIQGVX a skos:Concept ;
+    skos:altLabel "Semantic mining" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Text mining" .
+
+iskouk:7G55GHKM a skos:Concept ;
+    skos:altLabel "Biodiversity",
+        "Biology",
+        "Ecology",
+        "Natural history" ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Life science" .
+
+iskouk:7WVN21PO a skos:Concept ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Thesauri" .
+
+iskouk:840TSNC5 a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "AACR2" .
+
+iskouk:88BK5GN6 a skos:Concept ;
+    skos:broader iskouk:XKUZIVQY ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Infographics" .
+
+iskouk:8BBVYY0G a skos:Concept ;
+    skos:broader iskouk:YRCMXSO0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Content strategies" .
+
+iskouk:8CC6T7W5 a skos:Concept ;
+    skos:broader iskouk:KYMMW9O8 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Colon Classification" .
+
+iskouk:8D3QU4J1 a skos:Concept ;
+    skos:broader iskouk:IOQ48TOR ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Academic courses" .
+
+iskouk:8DNZDIAJ a skos:Concept ;
+    skos:altLabel "Geodata",
+        "Geospatial information",
+        "Location data",
+        "Spatial data" ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Geospatial data" .
+
+iskouk:8L5MEKEC a skos:Concept ;
+    skos:broader iskouk:XKUZIVQY ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Photographs" .
+
+iskouk:8LP5T9WT a skos:Concept ;
+    skos:broader iskouk:QZVKDLQV ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "User-centred research" .
+
+iskouk:8RJ9U9BC a skos:Concept ;
+    skos:broader iskouk:PY1WMR1C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Searching" .
+
+iskouk:8WDAPEM8 a skos:Concept ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Chemistry" .
+
+iskouk:8ZGFI7BP a skos:Concept ;
+    skos:altLabel "A/V" ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Audiovisual materials" .
+
+iskouk:97SKT2V2 a skos:Concept ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Grid computing" .
+
+iskouk:9DWO177V a skos:Concept ;
+    skos:altLabel "Standard Knowledge Organization System" ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "SKOS" .
+
+iskouk:9E5ZG1GT a skos:Concept ;
+    skos:altLabel "LCC" ;
+    skos:broader iskouk:KYMMW9O8 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Library of Congress Classification" .
+
+iskouk:9FLLMYOM a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Library and information services" .
+
+iskouk:9OQMAHBK a skos:Concept ;
+    skos:altLabel "Subject analysis",
+        "Text analysis" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Content analysis" .
+
+iskouk:9P3UXGWG a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Personalisation" .
+
+iskouk:9S5PO87Q a skos:Concept ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Derek Austin" .
+
+iskouk:9TF2ASWF a skos:Concept ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Personal data" .
+
+iskouk:AR2YUHO3 a skos:Concept ;
+    skos:altLabel "DOI" ;
+    skos:broader iskouk:3ZVOYSOX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Digital Object Identifiers" .
+
+iskouk:AW4TXN05 a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "MARC" .
+
+iskouk:AWWBTKUU a skos:Concept ;
+    skos:broader iskouk:YRCMXSO0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Digital strategies" .
+
+iskouk:AX075AC1 a skos:Concept ;
+    skos:broader iskouk:0TXEB67G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Publishing" .
+
+iskouk:AZIWEKBJ a skos:Concept ;
+    skos:altLabel "Local authorities" ;
+    skos:broader iskouk:5Q4KFVJM ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Local government" .
+
+iskouk:B2NDN6KH a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Disinformation" .
+
+iskouk:B3JR156V a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Geography" .
+
+iskouk:BM9RWKAB a skos:Concept ;
+    skos:altLabel "PRECIS" ;
+    skos:broader iskouk:59ITCJ1Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Pre-coordinated indexing" .
+
+iskouk:BPEVJUGL a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Faceted classification" .
+
+iskouk:BRHOGMD8 a skos:Concept ;
+    skos:broader iskouk:KGZMQ81C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Dialog" .
+
+iskouk:C1OI14HO a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Access to information" .
+
+iskouk:C8FTPR46 a skos:Concept ;
+    skos:broader iskouk:1VL1HVML ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Search optimisation" .
+
+iskouk:CMYJ6BZX a skos:Concept ;
+    skos:altLabel "Multilingual search" ;
+    skos:broader iskouk:PRUIHEDJ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Multi-lingual search" .
+
+iskouk:D6RYVIZS a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Programme management" .
+
+iskouk:D8DMSMHB a skos:Concept ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Big data" .
+
+iskouk:DHASU2Q4 a skos:Concept ;
+    skos:altLabel "Banking" ;
+    skos:broader iskouk:RLKI1546 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Finance" .
+
+iskouk:DHFBT3K0 a skos:Concept ;
+    skos:altLabel "Clinical records",
+        "Health records",
+        "Patient records" ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Medical records" .
+
+iskouk:DRFAH2EM a skos:Concept ;
+    skos:broader iskouk:RLKI1546 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Banking" .
+
+iskouk:E0BZWEEC a skos:Concept ;
+    skos:altLabel "Pharmacology" ;
+    skos:broader iskouk:0TXEB67G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Pharmaceuticals" .
+
+iskouk:EAZ7DERP a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Taxonomists" .
+
+iskouk:EI0RPSK8 a skos:Concept ;
+    skos:broader iskouk:CCMEP1FZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Taxonomy management systems" .
+
+iskouk:EIWTP7W4 a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Interoperability" .
+
+iskouk:ELKGW69O a skos:Concept ;
+    skos:broader iskouk:G4OURL6K ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Dbpedia" .
+
+iskouk:EQGIRIWH a skos:Concept ;
+    skos:altLabel "Online Public Access Catalogues" ;
+    skos:broader iskouk:Z6UX1M59 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "OPAC" .
+
+iskouk:F142AVAG a skos:Concept ;
+    skos:broader iskouk:KGZMQ81C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "LexisNexis" .
+
+iskouk:FC1FP29D a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Sentiment analysis" .
+
+iskouk:FFIUH6QN a skos:Concept ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Aquatic science" .
+
+iskouk:FG4WCKOZ a skos:Concept ;
+    skos:broader iskouk:59ITCJ1Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Post-coordinated indexing" .
+
+iskouk:FH2I9PFT a skos:Concept ;
+    skos:broader iskouk:5Q4KFVJM ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Central government" .
+
+iskouk:FQN3F8UG a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Architecture" .
+
+iskouk:FVKXA4HR a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Folksonomies" .
+
+iskouk:FXZFJRNO a skos:Concept ;
+    skos:broader iskouk:C3JU69LD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Requirements gathering" .
+
+iskouk:G7ARP36B a skos:Concept ;
+    skos:altLabel "Collection description" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Cataloguing" .
+
+iskouk:GPY66LUH a skos:Concept ;
+    skos:altLabel "News" ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Journalism" .
+
+iskouk:GUDBFJ2E a skos:Concept ;
+    skos:altLabel "DDC" ;
+    skos:broader iskouk:KYMMW9O8 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Dewey Decimal System" .
+
+iskouk:GZPB3JCI a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "FRBR" .
+
+iskouk:HA7G50BV a skos:Concept ;
+    skos:broader iskouk:PRUIHEDJ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Federated search" .
+
+iskouk:HGEXO1DP a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Charities" .
+
+iskouk:HGRGMCFH a skos:Concept ;
+    skos:altLabel "Linked data" ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Linked open data" .
+
+iskouk:HHLPD626 a skos:Concept ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Cloud computing" .
+
+iskouk:HU6BN1JI a skos:Concept ;
+    skos:broader iskouk:RLKI1546 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "e-Commerce" .
+
+iskouk:I01931DD a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Wikis" .
+
+iskouk:I2423DI3 a skos:Concept ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "GIS technology" .
+
+iskouk:I2ZHHLNZ a skos:Concept ;
+    skos:altLabel "Functional Requirements for Subject Authority Data" ;
+    skos:broader iskouk:Z00JMWB6 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "FRSAD" .
+
+iskouk:INQNB7AQ a skos:Concept ;
+    skos:altLabel "SRU" ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Search/Retrieve via URL" .
+
+iskouk:IPA5V5AM a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Fake news" .
+
+iskouk:ITG7XTCP a skos:Concept ;
+    skos:altLabel "Painting" ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Art" .
+
+iskouk:J2VKM2ZO a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Law" .
+
+iskouk:J5H0NJSA a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Ontologists" .
+
+iskouk:JACQY81Q a skos:Concept ;
+    skos:altLabel "Cutter" ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Charles Cutter" .
+
+iskouk:JJROM0NZ a skos:Concept ;
+    skos:altLabel "Information audits",
+        "Information inventories" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information auditing" .
+
+iskouk:JP493S7E a skos:Concept ;
+    skos:altLabel "Search performance" ;
+    skos:broader iskouk:PRUIHEDJ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Evaluating search" .
+
+iskouk:JPQUM1MB a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "ISO 25964" .
+
+iskouk:JT5SS634 a skos:Concept ;
+    skos:broader iskouk:8N16QA77 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "NKOS" .
+
+iskouk:JTVKZ0LN a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "RDFS" .
+
+iskouk:K8YOYJOW a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Videos" .
+
+iskouk:KLCYHC05 a skos:Concept ;
+    skos:broader iskouk:8N16QA77 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "KIDMM" .
+
+iskouk:KM97CK4K a skos:Concept ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Aeronautics" .
+
+iskouk:L0C9LMAF a skos:Concept ;
+    skos:altLabel "Domain analysis" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Domain modelling" .
+
+iskouk:L1Z7ZXDS a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data mining" .
+
+iskouk:L72G5W0J a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information architects" .
+
+iskouk:LBCYCEYA a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Censorship" .
+
+iskouk:LK4TLO46 a skos:Concept ;
+    skos:broader iskouk:PY1WMR1C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Browsing" .
+
+iskouk:LROL2WB8 a skos:Concept ;
+    skos:altLabel "NLP" ;
+    skos:broader iskouk:G1K3L21D ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Natural language processing" .
+
+iskouk:LYD4LF3C a skos:Concept ;
+    skos:broader iskouk:HHF597ZG ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Library management system" .
+
+iskouk:LZ2G0H2V a skos:Concept ;
+    skos:altLabel "Social web" ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Web 2.0" .
+
+iskouk:M6H6XIBY a skos:Concept ;
+    skos:altLabel "Environmental protection" ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Environment" .
+
+iskouk:M7O7FVTN a skos:Concept ;
+    skos:altLabel "Films",
+        "Movies",
+        "Performing arts" ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Cinema" .
+
+iskouk:M8F1HSYC a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Objectivity" .
+
+iskouk:MDKDSCR7 a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data models" .
+
+iskouk:MFPDBEN0 a skos:Concept ;
+    skos:altLabel "Ranganathan" ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "S. R. Ranganathan" .
+
+iskouk:MJJQL1BQ a skos:Concept ;
+    skos:broader iskouk:IOQ48TOR ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Training" .
+
+iskouk:MP3F7566 a skos:Concept ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Synonym rings" .
+
+iskouk:MQZ2DDDX a skos:Concept ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Mineralogy" .
+
+iskouk:N6BVA9P2 a skos:Concept ;
+    skos:altLabel "Performing arts" ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Music" .
+
+iskouk:NB7Y7HXC a skos:Concept ;
+    skos:broader iskouk:8N16QA77 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "CILIP" .
+
+iskouk:NBW3BBSM a skos:Concept ;
+    skos:altLabel "DCMI",
+        "Dublin Core  Metadata Initiative" ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Dublin Core" .
+
+iskouk:NH62N0UY a skos:Concept ;
+    skos:altLabel "Archival science" ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Archives management" .
+
+iskouk:NS9ZHDT0 a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information asset registers" .
+
+iskouk:NTXH2DJK a skos:Concept ;
+    skos:altLabel "Semantic web" ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Web 3.0" .
+
+iskouk:OHRY7ZUH a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Ethics" .
+
+iskouk:OL5LP47Q a skos:Concept ;
+    skos:altLabel "CRG" ;
+    skos:broader iskouk:8N16QA77 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Classification Research Group" .
+
+iskouk:OXW5VV3R a skos:Concept ;
+    skos:altLabel "Vickery" ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Brian Vickery" .
+
+iskouk:P3KFMFRE a skos:Concept ;
+    skos:broader iskouk:8W4VOTG0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge graphs" .
+
+iskouk:P5UQOBEY a skos:Concept ;
+    skos:altLabel "Content architecture" ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information architecture" .
+
+iskouk:PBSRSGVE a skos:Concept ;
+    skos:altLabel "BS8723",
+        "DD8723" ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "BS 8723" .
+
+iskouk:PC6PQJKE a skos:Concept ;
+    skos:altLabel "LOM" ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "IEEE Standard for Learning Objects" .
+
+iskouk:PHP2YCSR a skos:Concept ;
+    skos:altLabel "Biomedicine" ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Medical science" .
+
+iskouk:PMI70J9C a skos:Concept ;
+    skos:broader iskouk:KGZMQ81C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "PubMed" .
+
+iskouk:PR687YKO a skos:Concept ;
+    skos:altLabel "Corporate information",
+        "Enterprise content" ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Business documents" .
+
+iskouk:Q4L57KRN a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Metadata" .
+
+iskouk:Q5RA1J29 a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Grey literature" .
+
+iskouk:Q6OJYEKE a skos:Concept ;
+    skos:broader iskouk:CCMEP1FZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Ontology management systems" .
+
+iskouk:Q79A7LQ5 a skos:Concept ;
+    skos:altLabel "Taxonomy management" ;
+    skos:broader iskouk:4OX6PDD7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Taxonomy development" .
+
+iskouk:QBTOI3AC a skos:Concept ;
+    skos:altLabel "Ontology management" ;
+    skos:broader iskouk:4OX6PDD7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Ontology development" .
+
+iskouk:QHI3KC0M a skos:Concept ;
+    skos:altLabel "Information science",
+        "LIS",
+        "Librarianship",
+        "Library science" ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Library and information science" .
+
+iskouk:RD1G0HTM a skos:Concept ;
+    skos:broader iskouk:IOQ48TOR ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Career development" .
+
+iskouk:RGSETEYP a skos:Concept ;
+    skos:broader iskouk:Z29K9ZP2 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "BARTOC" .
+
+iskouk:RYX5J1OV a skos:Concept ;
+    skos:broader iskouk:2XM537H5 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Facebook" .
+
+iskouk:S0MQSJ0I a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "XML" .
+
+iskouk:S11XYTIH a skos:Concept ;
+    skos:altLabel "Metadata crosswalks",
+        "Metadata mapping" ;
+    skos:broader iskouk:V8W6KT2V ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Mapping metadata" .
+
+iskouk:SDWWBUJU a skos:Concept ;
+    skos:altLabel "PoFA",
+        "Protection of Freedoms Bill" ;
+    skos:broader iskouk:9N9RIC05 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Protection of Freedoms Act" .
+
+iskouk:SJG9ANW6 a skos:Concept ;
+    skos:altLabel "Personal information",
+        "Public sector data" ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:note "Confirmed different to Open data." ;
+    skos:prefLabel "Public data" .
+
+iskouk:SP6MREAA a skos:Concept ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Indexes" .
+
+iskouk:ST2CTB0C a skos:Concept ;
+    skos:broader iskouk:FWXBPXIL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Social learning" .
+
+iskouk:T769ZBER a skos:Concept ;
+    skos:altLabel "URI" ;
+    skos:broader iskouk:3ZVOYSOX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Uniform Resource Identifiers" .
+
+iskouk:TDR9S103 a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "History" .
+
+iskouk:TJOXPLHO a skos:Concept ;
+    skos:broader iskouk:PRUIHEDJ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Parametric search" .
+
+iskouk:TPVRXYNX a skos:Concept ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Open data" .
+
+iskouk:TU3G0039 a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Archives" .
+
+iskouk:TWPFMU4L a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Filters" .
+
+iskouk:TYPABJ5A a skos:Concept ;
+    skos:broader iskouk:LT26L0F4 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "SharePoint" .
+
+iskouk:TZPLC0AR a skos:Concept ;
+    skos:broader iskouk:CCMEP1FZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Thesaurus management systems" .
+
+iskouk:U169R24M a skos:Concept ;
+    skos:broader iskouk:7QSL3R6N ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Health protection" .
+
+iskouk:U74NOUUL a skos:Concept ;
+    skos:broader iskouk:5Z1NUJ8G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Civil engineering" .
+
+iskouk:U91TJTSJ a skos:Concept ;
+    skos:altLabel "Functional Requirements for Bibliographic Records" ;
+    skos:broader iskouk:Z00JMWB6 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "FRBR" .
+
+iskouk:UHDPFFCI a skos:Concept ;
+    skos:altLabel "Taxonomy crosswalks",
+        "Taxonomy mapping",
+        "Vocaulary crosswalks" ;
+    skos:broader iskouk:V8W6KT2V ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Mapping taxonomies" .
+
+iskouk:UPSE41RH a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Records managers" .
+
+iskouk:URTHVEAH a skos:Concept ;
+    skos:altLabel "Cultural heritage",
+        "Heritage institutions" ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Museums and art galleries" .
+
+iskouk:VIV9A2YC a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Oil and gas" .
+
+iskouk:VM1WFWR1 a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information management" .
+
+iskouk:VON5IJO7 a skos:Concept ;
+    skos:altLabel "UDC" ;
+    skos:broader iskouk:KYMMW9O8 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Universal Decimal Classification" .
+
+iskouk:VYJDA4SJ a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Intranets" .
+
+iskouk:W01ZMGRG a skos:Concept ;
+    skos:broader iskouk:M43I7DWD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Google" .
+
+iskouk:W215GY63 a skos:Concept ;
+    skos:altLabel "Address gazetteer",
+        "Addresses" ;
+    skos:broader iskouk:DKIAAD71 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Address data" .
+
+iskouk:W3ENEJYW a skos:Concept ;
+    skos:altLabel "Media asset management" ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Digital asset management" .
+
+iskouk:W42YTR6R a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Records management" .
+
+iskouk:W4D9ML68 a skos:Concept ;
+    skos:broader iskouk:ZI3KIFKX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Mathematics" .
+
+iskouk:W50L1KJK a skos:Concept ;
+    skos:broader iskouk:KGZMQ81C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Medline" .
+
+iskouk:W91MXJ7V a skos:Concept ;
+    skos:altLabel "UPRN" ;
+    skos:broader iskouk:3ZVOYSOX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Unique Property Reference Numbers" .
+
+iskouk:X1CXLT9D a skos:Concept ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "MoReq2" .
+
+iskouk:X22DNMQ8 a skos:Concept ;
+    skos:broader iskouk:PY1WMR1C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "User journeys" .
+
+iskouk:X2SFPR3Q a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Domain models" .
+
+iskouk:XPBRH3E0 a skos:Concept ;
+    skos:altLabel "Autocategorisation",
+        "Autoclassification",
+        "Automatic document categorisation",
+        "Automatic metadata",
+        "Automatic tagging",
+        "Autotagging",
+        "Text classification" ;
+    skos:broader iskouk:16LVUVBG ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Autocategorization" .
+
+iskouk:XU2AGFTH a skos:Concept ;
+    skos:broader iskouk:KGZMQ81C ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Factiva" .
+
+iskouk:XWA97Y4T a skos:Concept ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Authority files" .
+
+iskouk:XYPM9UDO a skos:Concept ;
+    skos:broader iskouk:9SZAFUGD ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge managers" .
+
+iskouk:Y2ZCKBE7 a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Politics" .
+
+iskouk:YQYGP9U3 a skos:Concept ;
+    skos:altLabel "Otlet" ;
+    skos:broader iskouk:05RWVAIH ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Paul Otlet" .
+
+iskouk:YU6T0DJA a skos:Concept ;
+    skos:altLabel "LCSH" ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Library of Congress Subject Headings" .
+
+iskouk:YYUZ6HPE a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Business classification schemes" .
+
+iskouk:YZF0P84A a skos:Concept ;
+    skos:altLabel "GDPR" ;
+    skos:broader iskouk:9N9RIC05 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "General Data Protection Regulation" .
+
+iskouk:Z2GIPX0Y a skos:Concept ;
+    skos:altLabel "Cars" ;
+    skos:broader iskouk:0TXEB67G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Motor industry" .
+
+iskouk:ZCU5FP4Z a skos:Concept ;
+    skos:altLabel "Read Codes" ;
+    skos:broader iskouk:MCBV57TL ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "SNOMED" .
+
+iskouk:ZI2EQI8D a skos:Concept ;
+    skos:altLabel "IRI" ;
+    skos:broader iskouk:3ZVOYSOX ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "International Resource Identifiers" .
+
+iskouk:ZIO1BG9Z a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information literacy" .
+
+iskouk:ZLQ5SY38 a skos:Concept ;
+    skos:altLabel "OWL",
+        "Web Ontology Language" ;
+    skos:broader iskouk:PYDVF1ME ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "OWL2" .
+
+iskouk:ZRJTK0W1 a skos:Concept ;
+    skos:altLabel "Metadata management" ;
+    skos:broader iskouk:4OX6PDD7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Metadata design" .
+
+iskouk:ZUR9HUXP a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge management" .
+
+iskouk:ZWK2RJRN a skos:Concept ;
+    skos:altLabel "Thesaurus management" ;
+    skos:broader iskouk:4OX6PDD7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Thesaurus development" .
+
+iskouk:ZZAC19NJ a skos:Concept ;
+    skos:broader iskouk:6DJ82O1I ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Archaeology" .
+
+iskouk:080P8HOA a skos:Concept ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Internet of things" .
+
+iskouk:1VL1HVML a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Website design" .
+
+iskouk:2XM537H5 a skos:Concept ;
+    skos:altLabel "Social networks" ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Social media" .
+
+iskouk:5SLOHCQR a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Libraries" .
+
+iskouk:5Z1NUJ8G a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Engineering" .
+
+iskouk:7QSL3R6N a skos:Concept ;
+    skos:altLabel "Healthcare" ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Health" .
+
+iskouk:8W4VOTG0 a skos:Concept ;
+    skos:altLabel "Visualising knowledge" ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge visualization" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:C3JU69LD a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Change management" .
+
+iskouk:G4OURL6K a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Databases" .
+
+iskouk:HHF597ZG a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Collection management systems" .
+
+iskouk:LT26L0F4 a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Content management systems" .
+
+iskouk:M43I7DWD a skos:Concept ;
+    skos:altLabel "Search applications" ;
+    skos:broader iskouk:PRUIHEDJ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Search engines" .
+
+iskouk:QZVKDLQV a skos:Concept ;
+    skos:altLabel "UX design",
+        "User experience design",
+        "User interface design" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "User-centred design" .
+
+iskouk:Z29K9ZP2 a skos:Concept ;
+    skos:altLabel "KOS registries",
+        "Knowledge Organization System registries" ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Terminology registries" .
+
+iskouk:Z6UX1M59 a skos:Concept ;
+    skos:altLabel "Catalogs" ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Catalogues" .
+
+iskouk:ZHX5KNP5 a skos:Concept ;
+    skos:altLabel "Copyright",
+        "IP" ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Intellectual property" .
+
+iskouk:16LVUVBG a skos:Concept ;
+    skos:altLabel "Keywording" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Tagging" .
+
+iskouk:59ITCJ1Y a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Indexing" .
+
+iskouk:FWXBPXIL a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Education" .
+
+iskouk:G1K3L21D a skos:Concept ;
+    skos:broader iskouk:3Y4HHW6Y ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Artificial intelligence" .
+
+iskouk:V8W6KT2V a skos:Concept ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Mapping KOS" .
+
+iskouk:XKUZIVQY a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Images" .
+
+iskouk:YRCMXSO0 a skos:Concept ;
+    skos:broader iskouk:R3TLQ6R0 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Strategic development" .
+
+iskouk:Z00JMWB6 a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Conceptual models" .
+
+iskouk:0TXEB67G a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Manufacturing" .
+
+iskouk:5Q4KFVJM a skos:Concept ;
+    skos:altLabel "Public administration" ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Public sector" .
+
+iskouk:CCMEP1FZ a skos:Concept ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Terminology management systems" .
+
+iskouk:PY1WMR1C a skos:Concept ;
+    skos:altLabel "Information behaviour" ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "User behaviours" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:RLKI1546 a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Commerce" .
+
+iskouk:3ZVOYSOX a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Identifiers" .
+
+iskouk:4OX6PDD7 a skos:Concept ;
+    skos:altLabel "Vocabulary building",
+        "Vocabulary control",
+        "Vocabulary management" ;
+    skos:broader iskouk:O2UECUAK ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "KOS development" .
+
+iskouk:8N16QA77 a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge organization bodies" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:9N9RIC05 a skos:Concept ;
+    skos:broader iskouk:2B5Y3J4U ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Legislation" .
+
+iskouk:IOQ48TOR a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Professional development" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:KGZMQ81C a skos:Concept ;
+    skos:altLabel "Journal services",
+        "News services" ;
+    skos:broader iskouk:9UFY9ETZ ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Online services" .
+
+iskouk:KYMMW9O8 a skos:Concept ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Classification schemes" .
+
+iskouk:PRUIHEDJ a skos:Concept ;
+    skos:altLabel "Discoverability",
+        "Findability",
+        "Information discovery",
+        "Resource discovery" ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information retrieval" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:05RWVAIH a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge organization people" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:3Y4HHW6Y a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information technology" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:ZI3KIFKX a skos:Concept ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Science" .
+
+iskouk:9SZAFUGD a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Information professionals" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:DKIAAD71 a skos:Concept ;
+    skos:broader iskouk:67ZW7M5G ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data" .
+
+iskouk:MCBV57TL a skos:Concept ;
+    skos:altLabel "Controlled vocabularies" ;
+    skos:broader iskouk:PU9QRADB ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Structured vocabularies" .
+
+iskouk:2B5Y3J4U a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Social aspects" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:9UFY9ETZ a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Content repositories" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:R3TLQ6R0 a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Management" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:67ZW7M5G a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Data and information types" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:T8XMIVM7 a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Sectors" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:6DJ82O1I a skos:Concept ;
+    skos:altLabel "Social science",
+        "The Arts" ;
+    skos:broader iskouk:T8XMIVM7 ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Humanities" .
+
+iskouk:PYDVF1ME a skos:Concept ;
+    skos:altLabel "KOS standards" ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge organization standards" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:PU9QRADB a skos:Concept ;
+    skos:altLabel "KOS",
+        "Retrieval languages" ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge organization systems" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:O2UECUAK a skos:Concept ;
+    skos:inScheme iskouk:subjects ;
+    skos:prefLabel "Knowledge organization processes" ;
+    skos:topConceptOf iskouk:subjects .
+
+iskouk:subjects a skos:ConceptScheme ;
+    rdfs:label "ISKO UK Subjects Taxonomy" ;
+    pav:version "1.0" ;
+    skos:prefLabel "ISKO UK Subjects Taxonomy" .
+
