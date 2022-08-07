@@ -7,7 +7,7 @@ df = pd.read_csv('subjects.csv', index_col = '@id', keep_default_na = True, dtyp
 
 namespace_manager = NamespaceManager(Graph())
 namespace_manager.bind('skos', SKOS, override = True)
-namespace_manager.bind('iskouk', Namespace('https://iskouk.org/'), override = True)
+namespace_manager.bind('iskouksubj', Namespace('https://iskouk.org/subjects/'), override = True)
 namespace_manager.bind('pav', Namespace('http://purl.org/pav/'), override = True)
 
 g = rdfpandas.to_graph(df, namespace_manager)
