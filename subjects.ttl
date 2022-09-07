@@ -464,6 +464,11 @@ iskouksubj:FG4WCKOZ a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Post-coordinated indexing" .
 
+iskouksubj:FH0BRRLG a skos:Concept ;
+    skos:broader iskouksubj:16LVUVBG ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Semantic tagging" .
+
 iskouksubj:FH2I9PFT a skos:Concept ;
     skos:broader iskouksubj:5Q4KFVJM ;
     skos:inScheme iskouksubj:scheme ;
@@ -1246,12 +1251,6 @@ iskouksubj:ZHX5KNP5 a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Intellectual property" .
 
-iskouksubj:16LVUVBG a skos:Concept ;
-    skos:altLabel "Keywording" ;
-    skos:broader iskouksubj:O2UECUAK ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Tagging" .
-
 iskouksubj:59ITCJ1Y a skos:Concept ;
     skos:broader iskouksubj:O2UECUAK ;
     skos:inScheme iskouksubj:scheme ;
@@ -1291,6 +1290,12 @@ iskouksubj:0TXEB67G a skos:Concept ;
     skos:broader iskouksubj:T8XMIVM7 ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Manufacturing" .
+
+iskouksubj:16LVUVBG a skos:Concept ;
+    skos:altLabel "Keywording" ;
+    skos:broader iskouksubj:O2UECUAK ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Tagging" .
 
 iskouksubj:5Q4KFVJM a skos:Concept ;
     skos:altLabel "Public administration" ;

@@ -119,6 +119,7 @@ iskouksubj:FC1FP29D,skos:Concept,iskouksubj:scheme,,iskouksubj:O2UECUAK,Sentimen
 iskouksubj:16LVUVBG,skos:Concept,iskouksubj:scheme,,iskouksubj:O2UECUAK,Tagging,,Keywording,,,,,,,,
 iskouksubj:XPBRH3E0,skos:Concept,iskouksubj:scheme,,iskouksubj:16LVUVBG,Autocategorization,,Autocategorisation,Automatic document categorisation,Automatic tagging,Autotagging,Automatic metadata,Autoclassification,Text classification,,
 iskouksubj:00I8GP8X,skos:Concept,iskouksubj:scheme,,iskouksubj:16LVUVBG,Social tagging,,,,,,,,,,
+iskouksubj:FH0BRRLG,skos:Concept,iskouksubj:scheme,,iskouksubj:16LVUVBG,Semantic tagging,,,,,,,,,,
 iskouksubj:7EYIQGVX,skos:Concept,iskouksubj:scheme,,iskouksubj:O2UECUAK,Text mining,,Semantic mining,,,,,,,,
 iskouksubj:QZVKDLQV,skos:Concept,iskouksubj:scheme,,iskouksubj:O2UECUAK,User-centred design,,User experience design,UX design,User interface design,,,,,,
 iskouksubj:8LP5T9WT,skos:Concept,iskouksubj:scheme,,iskouksubj:QZVKDLQV,User-centred research,,,,,,,,,,
