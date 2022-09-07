@@ -1,5 +1,5 @@
 @id,rdf:type,skos:inScheme,skos:topConceptOf,skos:broader,skos:prefLabel,rdfs:label,skos:altLabel[1],skos:altLabel[2],skos:altLabel[3],skos:altLabel[4],skos:altLabel[5],skos:altLabel[6],skos:altLabel[7],skos:note,pav:version
-iskouksubj:scheme,skos:ConceptScheme,,,,ISKO UK Subjects Taxonomy,ISKO UK Subjects Taxonomy,,,,,,,,,1.0
+iskouksubj:scheme,skos:ConceptScheme,,,,ISKO UK Subjects Taxonomy,ISKO UK Subjects Taxonomy,,,,,,,,,1.1
 iskouksubj:9UFY9ETZ,skos:Concept,iskouksubj:scheme,iskouksubj:scheme,,Content repositories,,,,,,,,,,
 iskouksubj:TU3G0039,skos:Concept,iskouksubj:scheme,,iskouksubj:9UFY9ETZ,Archives,,,,,,,,,,
 iskouksubj:HHF597ZG,skos:Concept,iskouksubj:scheme,,iskouksubj:9UFY9ETZ,Collection management systems,,,,,,,,,,
