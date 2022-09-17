@@ -61,6 +61,11 @@ iskouksubj:1OFZ35SJ a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Information managers" .
 
+iskouksubj:1SZ5JMEE a skos:Concept ;
+    skos:broader iskouksubj:7G55GHKM ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Biodiversity" .
+
 iskouksubj:1TRGOFDN a skos:Concept ;
     skos:broader iskouksubj:R3TLQ6R0 ;
     skos:inScheme iskouksubj:scheme ;
@@ -139,6 +144,7 @@ iskouksubj:4JNSOS6M a skos:Concept ;
     skos:prefLabel "Knowledge sharing" .
 
 iskouksubj:4WNPCVVX a skos:Concept ;
+    skos:altLabel "Ontology" ;
     skos:broader iskouksubj:PU9QRADB ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Ontologies" .
@@ -174,6 +180,11 @@ iskouksubj:6WLL4S41 a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Collection management" .
 
+iskouksubj:6XHZ0XRS a skos:Concept ;
+    skos:broader iskouksubj:7G55GHKM ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Biology" .
+
 iskouksubj:6ZA4RUD4 a skos:Concept ;
     skos:broader iskouksubj:G1K3L21D ;
     skos:inScheme iskouksubj:scheme ;
@@ -195,15 +206,6 @@ iskouksubj:7EYIQGVX a skos:Concept ;
     skos:broader iskouksubj:O2UECUAK ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Text mining" .
-
-iskouksubj:7G55GHKM a skos:Concept ;
-    skos:altLabel "Biodiversity",
-        "Biology",
-        "Ecology",
-        "Natural history" ;
-    skos:broader iskouksubj:ZI3KIFKX ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Life science" .
 
 iskouksubj:7WVN21PO a skos:Concept ;
     skos:broader iskouksubj:MCBV57TL ;
@@ -340,6 +342,11 @@ iskouksubj:AZIWEKBJ a skos:Concept ;
     skos:broader iskouksubj:5Q4KFVJM ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Local government" .
+
+iskouksubj:B2HTER9R a skos:Concept ;
+    skos:broader iskouksubj:7G55GHKM ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Natural history" .
 
 iskouksubj:B2NDN6KH a skos:Concept ;
     skos:broader iskouksubj:2B5Y3J4U ;
@@ -480,6 +487,7 @@ iskouksubj:FQN3F8UG a skos:Concept ;
     skos:prefLabel "Architecture" .
 
 iskouksubj:FVKXA4HR a skos:Concept ;
+    skos:altLabel "Folksonomy" ;
     skos:broader iskouksubj:PU9QRADB ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Folksonomies" .
@@ -494,6 +502,11 @@ iskouksubj:G7ARP36B a skos:Concept ;
     skos:broader iskouksubj:O2UECUAK ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Cataloguing" .
+
+iskouksubj:GCG68Q6Z a skos:Concept ;
+    skos:broader iskouksubj:7G55GHKM ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Ecology" .
 
 iskouksubj:GPY66LUH a skos:Concept ;
     skos:altLabel "News" ;
@@ -794,12 +807,6 @@ iskouksubj:PC6PQJKE a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "IEEE Standard for Learning Objects" .
 
-iskouksubj:PHP2YCSR a skos:Concept ;
-    skos:altLabel "Biomedicine" ;
-    skos:broader iskouksubj:ZI3KIFKX ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Medical science" .
-
 iskouksubj:PMI70J9C a skos:Concept ;
     skos:broader iskouksubj:KGZMQ81C ;
     skos:inScheme iskouksubj:scheme ;
@@ -910,6 +917,11 @@ iskouksubj:TDR9S103 a skos:Concept ;
     skos:broader iskouksubj:6DJ82O1I ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "History" .
+
+iskouksubj:TH68G7W5 a skos:Concept ;
+    skos:broader iskouksubj:PHP2YCSR ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Biomedicine" .
 
 iskouksubj:TJOXPLHO a skos:Concept ;
     skos:broader iskouksubj:PRUIHEDJ ;
@@ -1223,6 +1235,11 @@ iskouksubj:M43I7DWD a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Search engines" .
 
+iskouksubj:PHP2YCSR a skos:Concept ;
+    skos:broader iskouksubj:ZI3KIFKX ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Medical sciences" .
+
 iskouksubj:QZVKDLQV a skos:Concept ;
     skos:altLabel "UX design",
         "User experience design",
@@ -1331,6 +1348,11 @@ iskouksubj:4OX6PDD7 a skos:Concept ;
     skos:broader iskouksubj:O2UECUAK ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "KOS development" .
+
+iskouksubj:7G55GHKM a skos:Concept ;
+    skos:broader iskouksubj:ZI3KIFKX ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Life sciences" .
 
 iskouksubj:8N16QA77 a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
@@ -1451,6 +1473,6 @@ iskouksubj:O2UECUAK a skos:Concept ;
 
 iskouksubj:scheme a skos:ConceptScheme ;
     rdfs:label "ISKO UK Subjects Taxonomy" ;
-    pav:version "1.1" ;
+    pav:version "5" ;
     skos:prefLabel "ISKO UK Subjects Taxonomy" .
 
