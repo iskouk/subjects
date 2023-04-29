@@ -15,6 +15,11 @@ iskouksubj:00I8GP8X a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Social tagging" .
 
+iskouksubj:00R63BZP a skos:Concept ;
+    skos:broader iskouksubj:PY1WMR1C ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Collaboration" .
+
 iskouksubj:0D82XPPC a skos:Concept ;
     skos:broader iskouksubj:9UFY9ETZ ;
     skos:inScheme iskouksubj:scheme ;
@@ -41,6 +46,11 @@ iskouksubj:0VMQ8DHJ a skos:Concept ;
     skos:broader iskouksubj:ZHX5KNP5 ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Open Government Licence" .
+
+iskouksubj:0VYBYGEL a skos:Concept ;
+    skos:broader iskouksubj:T8XMIVM7 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Broadcasting" .
 
 iskouksubj:0WXEID7H a skos:Concept ;
     skos:altLabel "UX designers",
@@ -131,6 +141,11 @@ iskouksubj:3WM8Y0O9 a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Parliament" .
 
+iskouksubj:43IAF6R2 a skos:Concept ;
+    skos:broader iskouksubj:RJQ9D39D ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Dance" .
+
 iskouksubj:4ER4MT26 a skos:Concept ;
     skos:altLabel "FOIA" ;
     skos:broader iskouksubj:9N9RIC05 ;
@@ -191,8 +206,9 @@ iskouksubj:6ZA4RUD4 a skos:Concept ;
     skos:prefLabel "Machine learning" .
 
 iskouksubj:74QF41BO a skos:Concept ;
-    skos:altLabel "Performing arts" ;
-    skos:broader iskouksubj:6DJ82O1I ;
+    skos:altLabel "Drama",
+        "Plays" ;
+    skos:broader iskouksubj:RJQ9D39D ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Theatre" .
 
@@ -358,6 +374,12 @@ iskouksubj:B3JR156V a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Geography" .
 
+iskouksubj:BHY8XW6X a skos:Concept ;
+    skos:altLabel "Information sharing" ;
+    skos:broader iskouksubj:PY1WMR1C ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Knowledge sharing" .
+
 iskouksubj:BM9RWKAB a skos:Concept ;
     skos:altLabel "PRECIS" ;
     skos:broader iskouksubj:59ITCJ1Y ;
@@ -419,11 +441,22 @@ iskouksubj:DRFAH2EM a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Banking" .
 
+iskouksubj:DYW1DRN1 a skos:Concept ;
+    skos:altLabel "Genealogy" ;
+    skos:broader iskouksubj:TDR9S103 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Family history" .
+
 iskouksubj:E0BZWEEC a skos:Concept ;
     skos:altLabel "Pharmacology" ;
     skos:broader iskouksubj:0TXEB67G ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Pharmaceuticals" .
+
+iskouksubj:E1J7Q96G a skos:Concept ;
+    skos:broader iskouksubj:TDR9S103 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Local history" .
 
 iskouksubj:EAZ7DERP a skos:Concept ;
     skos:broader iskouksubj:9SZAFUGD ;
@@ -481,6 +514,11 @@ iskouksubj:FH2I9PFT a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Central government" .
 
+iskouksubj:FHZICL3G a skos:Concept ;
+    skos:broader iskouksubj:R3TLQ6R0 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Governance" .
+
 iskouksubj:FQN3F8UG a skos:Concept ;
     skos:broader iskouksubj:6DJ82O1I ;
     skos:inScheme iskouksubj:scheme ;
@@ -496,6 +534,13 @@ iskouksubj:FXZFJRNO a skos:Concept ;
     skos:broader iskouksubj:C3JU69LD ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Requirements gathering" .
+
+iskouksubj:FZGTHUIK a skos:Concept ;
+    skos:altLabel "Films",
+        "Movies" ;
+    skos:broader iskouksubj:RJQ9D39D ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Cinema" .
 
 iskouksubj:G7ARP36B a skos:Concept ;
     skos:altLabel "Collection description" ;
@@ -686,6 +731,11 @@ iskouksubj:LZ2G0H2V a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Web 2.0" .
 
+iskouksubj:M0SAU4EL a skos:Concept ;
+    skos:broader iskouksubj:R3TLQ6R0 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Data management" .
+
 iskouksubj:M6H6XIBY a skos:Concept ;
     skos:altLabel "Environmental protection" ;
     skos:broader iskouksubj:T8XMIVM7 ;
@@ -732,8 +782,7 @@ iskouksubj:MQZ2DDDX a skos:Concept ;
     skos:prefLabel "Mineralogy" .
 
 iskouksubj:N6BVA9P2 a skos:Concept ;
-    skos:altLabel "Performing arts" ;
-    skos:broader iskouksubj:6DJ82O1I ;
+    skos:broader iskouksubj:RJQ9D39D ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Music" .
 
@@ -811,6 +860,11 @@ iskouksubj:PMI70J9C a skos:Concept ;
     skos:broader iskouksubj:KGZMQ81C ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "PubMed" .
+
+iskouksubj:PNNWODKS a skos:Concept ;
+    skos:broader iskouksubj:2B5Y3J4U ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Corporate culture" .
 
 iskouksubj:PR687YKO a skos:Concept ;
     skos:altLabel "Corporate information",
@@ -912,11 +966,6 @@ iskouksubj:T769ZBER a skos:Concept ;
     skos:broader iskouksubj:3ZVOYSOX ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Uniform Resource Identifiers" .
-
-iskouksubj:TDR9S103 a skos:Concept ;
-    skos:broader iskouksubj:6DJ82O1I ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "History" .
 
 iskouksubj:TH68G7W5 a skos:Concept ;
     skos:broader iskouksubj:PHP2YCSR ;
@@ -1283,6 +1332,11 @@ iskouksubj:G1K3L21D a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Artificial intelligence" .
 
+iskouksubj:TDR9S103 a skos:Concept ;
+    skos:broader iskouksubj:6DJ82O1I ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "History" .
+
 iskouksubj:V8W6KT2V a skos:Concept ;
     skos:broader iskouksubj:O2UECUAK ;
     skos:inScheme iskouksubj:scheme ;
@@ -1325,12 +1379,6 @@ iskouksubj:CCMEP1FZ a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Terminology management systems" .
 
-iskouksubj:PY1WMR1C a skos:Concept ;
-    skos:altLabel "Information behaviour" ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "User behaviours" ;
-    skos:topConceptOf iskouksubj:scheme .
-
 iskouksubj:RLKI1546 a skos:Concept ;
     skos:broader iskouksubj:T8XMIVM7 ;
     skos:inScheme iskouksubj:scheme ;
@@ -1369,6 +1417,11 @@ iskouksubj:IOQ48TOR a skos:Concept ;
     skos:prefLabel "Professional development" ;
     skos:topConceptOf iskouksubj:scheme .
 
+iskouksubj:RJQ9D39D a skos:Concept ;
+    skos:broader iskouksubj:6DJ82O1I ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Performing arts" .
+
 iskouksubj:KGZMQ81C a skos:Concept ;
     skos:altLabel "Journal services",
         "News services" ;
@@ -1380,6 +1433,12 @@ iskouksubj:KYMMW9O8 a skos:Concept ;
     skos:broader iskouksubj:PU9QRADB ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Classification schemes" .
+
+iskouksubj:PY1WMR1C a skos:Concept ;
+    skos:altLabel "Information behaviour" ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "User behaviours" ;
+    skos:topConceptOf iskouksubj:scheme .
 
 iskouksubj:PRUIHEDJ a skos:Concept ;
     skos:altLabel "Discoverability",
@@ -1431,19 +1490,9 @@ iskouksubj:9UFY9ETZ a skos:Concept ;
     skos:prefLabel "Content repositories" ;
     skos:topConceptOf iskouksubj:scheme .
 
-iskouksubj:R3TLQ6R0 a skos:Concept ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Management" ;
-    skos:topConceptOf iskouksubj:scheme .
-
 iskouksubj:67ZW7M5G a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Data and information types" ;
-    skos:topConceptOf iskouksubj:scheme .
-
-iskouksubj:T8XMIVM7 a skos:Concept ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Sectors" ;
     skos:topConceptOf iskouksubj:scheme .
 
 iskouksubj:6DJ82O1I a skos:Concept ;
@@ -1457,6 +1506,16 @@ iskouksubj:PYDVF1ME a skos:Concept ;
     skos:altLabel "KOS standards" ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Knowledge organization standards" ;
+    skos:topConceptOf iskouksubj:scheme .
+
+iskouksubj:R3TLQ6R0 a skos:Concept ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Management" ;
+    skos:topConceptOf iskouksubj:scheme .
+
+iskouksubj:T8XMIVM7 a skos:Concept ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Sectors" ;
     skos:topConceptOf iskouksubj:scheme .
 
 iskouksubj:PU9QRADB a skos:Concept ;
@@ -1473,6 +1532,6 @@ iskouksubj:O2UECUAK a skos:Concept ;
 
 iskouksubj:scheme a skos:ConceptScheme ;
     rdfs:label "ISKO UK Subjects Taxonomy" ;
-    pav:version "5" ;
+    pav:version "6" ;
     skos:prefLabel "ISKO UK Subjects Taxonomy" .
 
