@@ -20,6 +20,11 @@ iskouksubj:00R63BZP a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Collaboration" .
 
+iskouksubj:00ZK1TNB a skos:Concept ;
+    skos:broader iskouksubj:O2UECUAK ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Knowledge engineering" .
+
 iskouksubj:0D82XPPC a skos:Concept ;
     skos:broader iskouksubj:9UFY9ETZ ;
     skos:inScheme iskouksubj:scheme ;
@@ -97,11 +102,6 @@ iskouksubj:202AASH6 a skos:Concept ;
     skos:broader iskouksubj:67ZW7M5G ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Web sites" .
-
-iskouksubj:22THY8MD a skos:Concept ;
-    skos:broader iskouksubj:MCBV57TL ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Taxonomies" .
 
 iskouksubj:25BWYBCX a skos:Concept ;
     skos:altLabel "Farradane" ;
@@ -223,11 +223,6 @@ iskouksubj:7EYIQGVX a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Text mining" .
 
-iskouksubj:7WVN21PO a skos:Concept ;
-    skos:broader iskouksubj:MCBV57TL ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Thesauri" .
-
 iskouksubj:840TSNC5 a skos:Concept ;
     skos:broader iskouksubj:PYDVF1ME ;
     skos:inScheme iskouksubj:scheme ;
@@ -332,6 +327,11 @@ iskouksubj:9TF2ASWF a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Personal data" .
 
+iskouksubj:9XEU7MBA a skos:Concept ;
+    skos:broader iskouksubj:T8XMIVM7 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Religion" .
+
 iskouksubj:AR2YUHO3 a skos:Concept ;
     skos:altLabel "DOI" ;
     skos:broader iskouksubj:3ZVOYSOX ;
@@ -411,6 +411,11 @@ iskouksubj:CMYJ6BZX a skos:Concept ;
     skos:broader iskouksubj:PRUIHEDJ ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Multi-lingual search" .
+
+iskouksubj:CYUHF0Z1 a skos:Concept ;
+    skos:broader iskouksubj:5SLOHCQR ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Academic libraries" .
 
 iskouksubj:D6RYVIZS a skos:Concept ;
     skos:broader iskouksubj:R3TLQ6R0 ;
@@ -542,6 +547,11 @@ iskouksubj:FZGTHUIK a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Cinema" .
 
+iskouksubj:G3LWHTW8 a skos:Concept ;
+    skos:broader iskouksubj:R3TLQ6R0 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Data curation" .
+
 iskouksubj:G7ARP36B a skos:Concept ;
     skos:altLabel "Collection description" ;
     skos:broader iskouksubj:O2UECUAK ;
@@ -590,11 +600,6 @@ iskouksubj:HHLPD626 a skos:Concept ;
     skos:broader iskouksubj:3Y4HHW6Y ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Cloud computing" .
-
-iskouksubj:HU6BN1JI a skos:Concept ;
-    skos:broader iskouksubj:RLKI1546 ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "e-Commerce" .
 
 iskouksubj:I01931DD a skos:Concept ;
     skos:broader iskouksubj:67ZW7M5G ;
@@ -688,6 +693,11 @@ iskouksubj:KM97CK4K a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Aeronautics" .
 
+iskouksubj:KY0MWMQZ a skos:Concept ;
+    skos:broader iskouksubj:PU9QRADB ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Data journeys" .
+
 iskouksubj:L0C9LMAF a skos:Concept ;
     skos:altLabel "Domain analysis" ;
     skos:broader iskouksubj:O2UECUAK ;
@@ -713,6 +723,11 @@ iskouksubj:LK4TLO46 a skos:Concept ;
     skos:broader iskouksubj:PY1WMR1C ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Browsing" .
+
+iskouksubj:LMO9ND7A a skos:Concept ;
+    skos:broader iskouksubj:3Y4HHW6Y ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Software development" .
 
 iskouksubj:LROL2WB8 a skos:Concept ;
     skos:altLabel "NLP" ;
@@ -826,11 +841,21 @@ iskouksubj:OL5LP47Q a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Classification Research Group" .
 
+iskouksubj:OPPPJ6A2 a skos:Concept ;
+    skos:broader iskouksubj:7WVN21PO ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "EuroVoc" .
+
 iskouksubj:OXW5VV3R a skos:Concept ;
     skos:altLabel "Vickery" ;
     skos:broader iskouksubj:05RWVAIH ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Brian Vickery" .
+
+iskouksubj:P37K77RF a skos:Concept ;
+    skos:broader iskouksubj:5Z1NUJ8G ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Software engineering" .
 
 iskouksubj:P3KFMFRE a skos:Concept ;
     skos:broader iskouksubj:8W4VOTG0 ;
@@ -909,6 +934,11 @@ iskouksubj:QHI3KC0M a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Library and information science" .
 
+iskouksubj:QXZRFZ85 a skos:Concept ;
+    skos:broader iskouksubj:67ZW7M5G ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Tacit knowledge" .
+
 iskouksubj:RD1G0HTM a skos:Concept ;
     skos:broader iskouksubj:IOQ48TOR ;
     skos:inScheme iskouksubj:scheme ;
@@ -982,6 +1012,12 @@ iskouksubj:TPVRXYNX a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Open data" .
 
+iskouksubj:TTKGK3JK a skos:Concept ;
+    skos:altLabel "Official information" ;
+    skos:broader iskouksubj:67ZW7M5G ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Government information" .
+
 iskouksubj:TU3G0039 a skos:Concept ;
     skos:broader iskouksubj:9UFY9ETZ ;
     skos:inScheme iskouksubj:scheme ;
@@ -1026,6 +1062,11 @@ iskouksubj:UHDPFFCI a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Mapping taxonomies" .
 
+iskouksubj:UMFVCLJX a skos:Concept ;
+    skos:broader iskouksubj:HU6BN1JI ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Online shopping" .
+
 iskouksubj:UPSE41RH a skos:Concept ;
     skos:broader iskouksubj:9SZAFUGD ;
     skos:inScheme iskouksubj:scheme ;
@@ -1053,6 +1094,12 @@ iskouksubj:VON5IJO7 a skos:Concept ;
     skos:broader iskouksubj:KYMMW9O8 ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Universal Decimal Classification" .
+
+iskouksubj:VTM9UP10 a skos:Concept ;
+    skos:altLabel "LLM" ;
+    skos:broader iskouksubj:PU9QRADB ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Large language models" .
 
 iskouksubj:VYJDA4SJ a skos:Concept ;
     skos:broader iskouksubj:9UFY9ETZ ;
@@ -1175,8 +1222,7 @@ iskouksubj:Z2GIPX0Y a skos:Concept ;
     skos:prefLabel "Motor industry" .
 
 iskouksubj:ZCU5FP4Z a skos:Concept ;
-    skos:altLabel "Read Codes" ;
-    skos:broader iskouksubj:MCBV57TL ;
+    skos:broader iskouksubj:22THY8MD ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "SNOMED" .
 
@@ -1230,27 +1276,27 @@ iskouksubj:1VL1HVML a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Website design" .
 
+iskouksubj:22THY8MD a skos:Concept ;
+    skos:broader iskouksubj:MCBV57TL ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Taxonomies" .
+
 iskouksubj:2XM537H5 a skos:Concept ;
     skos:altLabel "Social networks" ;
     skos:broader iskouksubj:67ZW7M5G ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Social media" .
 
-iskouksubj:5SLOHCQR a skos:Concept ;
-    skos:broader iskouksubj:9UFY9ETZ ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Libraries" .
-
-iskouksubj:5Z1NUJ8G a skos:Concept ;
-    skos:broader iskouksubj:T8XMIVM7 ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Engineering" .
-
 iskouksubj:7QSL3R6N a skos:Concept ;
     skos:altLabel "Healthcare" ;
     skos:broader iskouksubj:T8XMIVM7 ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Health" .
+
+iskouksubj:7WVN21PO a skos:Concept ;
+    skos:broader iskouksubj:MCBV57TL ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Thesauri" .
 
 iskouksubj:8W4VOTG0 a skos:Concept ;
     skos:altLabel "Visualising knowledge" ;
@@ -1272,6 +1318,11 @@ iskouksubj:HHF597ZG a skos:Concept ;
     skos:broader iskouksubj:9UFY9ETZ ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Collection management systems" .
+
+iskouksubj:HU6BN1JI a skos:Concept ;
+    skos:broader iskouksubj:RLKI1546 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "e-Commerce" .
 
 iskouksubj:LT26L0F4 a skos:Concept ;
     skos:broader iskouksubj:9UFY9ETZ ;
@@ -1321,6 +1372,16 @@ iskouksubj:59ITCJ1Y a skos:Concept ;
     skos:broader iskouksubj:O2UECUAK ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Indexing" .
+
+iskouksubj:5SLOHCQR a skos:Concept ;
+    skos:broader iskouksubj:9UFY9ETZ ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Libraries" .
+
+iskouksubj:5Z1NUJ8G a skos:Concept ;
+    skos:broader iskouksubj:T8XMIVM7 ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Engineering" .
 
 iskouksubj:FWXBPXIL a skos:Concept ;
     skos:broader iskouksubj:T8XMIVM7 ;
@@ -1454,15 +1515,21 @@ iskouksubj:05RWVAIH a skos:Concept ;
     skos:prefLabel "Knowledge organization people" ;
     skos:topConceptOf iskouksubj:scheme .
 
-iskouksubj:3Y4HHW6Y a skos:Concept ;
+iskouksubj:MCBV57TL a skos:Concept ;
+    skos:altLabel "Controlled vocabularies" ;
+    skos:broader iskouksubj:PU9QRADB ;
     skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Information technology" ;
-    skos:topConceptOf iskouksubj:scheme .
+    skos:prefLabel "Structured vocabularies" .
 
 iskouksubj:ZI3KIFKX a skos:Concept ;
     skos:broader iskouksubj:T8XMIVM7 ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Science" .
+
+iskouksubj:3Y4HHW6Y a skos:Concept ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Information technology" ;
+    skos:topConceptOf iskouksubj:scheme .
 
 iskouksubj:9SZAFUGD a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
@@ -1474,12 +1541,6 @@ iskouksubj:DKIAAD71 a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Data" .
 
-iskouksubj:MCBV57TL a skos:Concept ;
-    skos:altLabel "Controlled vocabularies" ;
-    skos:broader iskouksubj:PU9QRADB ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Structured vocabularies" .
-
 iskouksubj:2B5Y3J4U a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Social aspects" ;
@@ -1488,11 +1549,6 @@ iskouksubj:2B5Y3J4U a skos:Concept ;
 iskouksubj:9UFY9ETZ a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Content repositories" ;
-    skos:topConceptOf iskouksubj:scheme .
-
-iskouksubj:67ZW7M5G a skos:Concept ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Data and information types" ;
     skos:topConceptOf iskouksubj:scheme .
 
 iskouksubj:6DJ82O1I a skos:Concept ;
@@ -1508,6 +1564,11 @@ iskouksubj:PYDVF1ME a skos:Concept ;
     skos:prefLabel "Knowledge organization standards" ;
     skos:topConceptOf iskouksubj:scheme .
 
+iskouksubj:67ZW7M5G a skos:Concept ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Data and information types" ;
+    skos:topConceptOf iskouksubj:scheme .
+
 iskouksubj:R3TLQ6R0 a skos:Concept ;
     skos:inScheme iskouksubj:scheme ;
     skos:prefLabel "Management" ;
@@ -1518,6 +1579,11 @@ iskouksubj:T8XMIVM7 a skos:Concept ;
     skos:prefLabel "Sectors" ;
     skos:topConceptOf iskouksubj:scheme .
 
+iskouksubj:O2UECUAK a skos:Concept ;
+    skos:inScheme iskouksubj:scheme ;
+    skos:prefLabel "Knowledge organization processes" ;
+    skos:topConceptOf iskouksubj:scheme .
+
 iskouksubj:PU9QRADB a skos:Concept ;
     skos:altLabel "KOS",
         "Retrieval languages" ;
@@ -1525,13 +1591,8 @@ iskouksubj:PU9QRADB a skos:Concept ;
     skos:prefLabel "Knowledge organization systems" ;
     skos:topConceptOf iskouksubj:scheme .
 
-iskouksubj:O2UECUAK a skos:Concept ;
-    skos:inScheme iskouksubj:scheme ;
-    skos:prefLabel "Knowledge organization processes" ;
-    skos:topConceptOf iskouksubj:scheme .
-
 iskouksubj:scheme a skos:ConceptScheme ;
     rdfs:label "ISKO UK Subjects Taxonomy" ;
-    pav:version "6" ;
+    pav:version "8" ;
     skos:prefLabel "ISKO UK Subjects Taxonomy" .
 
